@@ -6,8 +6,6 @@ I like turning an idea into something that actually runs, then finding out where
 My graduate research is in applied deep learning, and most of my hands-on work sits around
 model training, data pipelines and cloud deployment, with a fair amount of it in healthcare.
 
-- **Now** — Looking for 2027 new-grad roles.
-- **Before that** — teaching assistant for Introduction to Programming at NCCU. B.S. Electrical Engineering, Chang Gung University.
 - **Website** — [kuanyuhsien.com](https://www.kuanyuhsien.com)
 
 ### Tech I reach for
