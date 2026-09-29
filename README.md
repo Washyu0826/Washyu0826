@@ -24,11 +24,6 @@ model training, data pipelines and cloud deployment, with a fair amount of it in
 | **Backend and data** | <img height="42" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" /> <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> |
 | **Machine learning** | <img height="42" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> |
 | **Infrastructure and observability** | <img height="42" alt="Linux, Docker, Kubernetes, Nginx, AWS, Vercel, Grafana" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,vercel,grafana&theme=dark" /> |
---- | --- |
-| **Languages** | <img height="42" alt="Python, TypeScript, JavaScript, Java, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp&theme=dark" /> |
-| **Frontend** | <img height="42" alt="React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /> |
-| **Backend and data** | <img height="42" alt="PostgreSQL, MySQL, Supabase" src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" /> <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> |
-| **Infrastructure and deployment** | <img height="42" alt="Linux, Docker, Kubernetes, Vercel" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,vercel&theme=dark" /> |
 
 ---
 
