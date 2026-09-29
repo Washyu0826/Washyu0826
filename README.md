@@ -39,6 +39,15 @@ screenshot to accessibility.
 
 ---
 
+<!-- Two trophies rather than the default eight: the other six are Stars, Followers, Issues and
+     Reviews, which currently read "Unknown, 0pt", and a card that lists what someone has not done
+     yet is worse than no card. Drop the `title=` parameter to show all of them.
+     The canonical host (github-profile-trophy.vercel.app) answers 402 while its owner looks for
+     funding, so this points at a volunteer mirror; forking the project onto your own Vercel is the
+     version that cannot disappear. -->
+
+[![trophies](https://trophy.ryglcloud.net/?username=Washyu0826&title=Commits,Experience&theme=onedark&column=2&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Reach me
 
 [Contact page](https://www.kuanyuhsien.com/en/contact) · [LinkedIn](https://www.linkedin.com/in/kuan-yu-hsien-780123304)
