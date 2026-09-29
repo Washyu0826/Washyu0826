@@ -22,7 +22,7 @@ model training, data pipelines and cloud deployment, with a fair amount of it in
 | **Languages** | <img height="42" alt="Python, TypeScript, JavaScript, Java, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,c,cpp&theme=dark" /> |
 | **Frontend** | <img height="42" alt="React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /> |
 | **Backend and data** | <img height="42" alt="PostgreSQL, MySQL, Supabase" src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" /> <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> |
-| **Infrastructure and deployment** | <img height="42" alt="Docker, Kubernetes, Vercel" src="https://skillicons.dev/icons?i=docker,kubernetes,vercel&theme=dark" /> |
+| **Infrastructure and deployment** | <img height="42" alt="Linux, Docker, Kubernetes, Vercel" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,vercel&theme=dark" /> |
 
 ---
 
