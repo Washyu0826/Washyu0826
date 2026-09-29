@@ -11,6 +11,13 @@ model training, data pipelines and cloud deployment, with a fair amount of it in
 - **Before that** — teaching assistant for Introduction to Programming at NCCU. B.S. Electrical Engineering, Chang Gung University.
 - **Website** — [kuanyuhsien.com](https://www.kuanyuhsien.com)
 
+### Tech I reach for
+
+<!-- One request, one SVG, so there is nothing here that can turn into a broken image. Every icon is
+     something that appears in a repository below; add to the `i=` list as that changes. -->
+
+[![tech](https://skillicons.dev/icons?i=ts,py,js,react,nextjs,tailwind,java,postgres,supabase,neo4j,docker,kubernetes,vercel,git&theme=dark&perline=7)](https://skillicons.dev)
+
 ---
 
 ### What I have been building
