@@ -12,10 +12,17 @@ model training, data pipelines and cloud deployment, with a fair amount of it in
 
 ### Tech I reach for
 
-<!-- One request, one SVG, so there is nothing here that can turn into a broken image. Every icon is
-     something that appears in a repository below; add to the `i=` list as that changes. -->
+<!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
+     Each row is one request to skillicons.dev, so there is no single image here that can break on
+     its own. Neo4j is the exception: skillicons has no icon for it and renders nothing rather than
+     failing, so it comes from devicon at a matching height. -->
 
-[![tech](https://skillicons.dev/icons?i=ts,py,js,react,nextjs,tailwind,java,postgres,supabase,neo4j,docker,kubernetes,vercel,git&theme=dark&perline=7)](https://skillicons.dev)
+| | |
+| --- | --- |
+| **Languages** | <img height="42" alt="TypeScript, Python, JavaScript, Java" src="https://skillicons.dev/icons?i=ts,py,js,java&theme=dark" /> |
+| **Frontend** | <img height="42" alt="React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /> |
+| **Backend and data** | <img height="42" alt="PostgreSQL, Supabase" src="https://skillicons.dev/icons?i=postgres,supabase&theme=dark" /> <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> |
+| **Infrastructure and deployment** | <img height="42" alt="Docker, Kubernetes, Vercel" src="https://skillicons.dev/icons?i=docker,kubernetes,vercel&theme=dark" /> |
 
 ---
 
