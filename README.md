@@ -7,7 +7,6 @@ My graduate research is in applied deep learning, and most of my hands-on work s
 model training, data pipelines and cloud deployment, with a fair amount of it in healthcare.
 
 - **Now** — Looking for 2027 new-grad roles.
-- **Recently** — Cloud Strategy & Technology intern at Cathay Financial Holdings and Digital Health R&D intern at H2U Health, February to June 2026.
 - **Before that** — teaching assistant for Introduction to Programming at NCCU. B.S. Electrical Engineering, Chang Gung University.
 - **Website** — [kuanyuhsien.com](https://www.kuanyuhsien.com)
 
