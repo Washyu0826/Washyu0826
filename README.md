@@ -13,8 +13,6 @@ what the numbers do not say.
 
 **🌐 Know more about my experiences** at [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
-## 🛠️ Tech I reach for
-
 <!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
      Each row is one request to skillicons.dev, so no single image here can break on its own. Neo4j
      is the exception: skillicons has no icon for it and renders nothing rather than failing, so it
