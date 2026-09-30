@@ -22,35 +22,6 @@ what the numbers do not say.
   <tbody>
     <tr>
       <td><strong>Languages</strong></td>
-      <td><img height="42" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td><img height="42" alt="HTML, CSS, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td><strong>Backend and data</strong></td>
-      <td>
-        <img height="42" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" />
-        <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Machine learning</strong></td>
-      <td><img height="42" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></td>
-    </tr>
-    <tr>
-      <td><strong>Infrastructure and observability</strong></td>
-      <td><img height="42" alt="Linux, Docker, Kubernetes, Nginx, AWS, Vercel, Grafana" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,vercel,grafana&theme=dark" /></td>
-    </tr>
-  </tbody>
-</table>
-
-
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
       <td>
         <img height="36" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" />
       </td>
@@ -81,9 +52,11 @@ what the numbers do not say.
       </td>
     </tr>
     <tr>
-      <td><strong>Machine Learning</strong></td>
+      <td><strong>ML & Deep Learning</strong></td>
       <td colspan="3">
-        <img height="36" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+        <img height="36" alt="PyTorch, TensorFlow, Keras, scikit-learn, OpenCV" src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&theme=dark" />
+        <img height="36" alt="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
+        <img height="36" alt="Weights & Biases" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" />
       </td>
     </tr>
   </tbody>
