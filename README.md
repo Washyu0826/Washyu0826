@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Zenobia
 
-A Computer Science master's student who thrives on cross-pollinating ideas, connecting resources, and turning concepts into reality.
+## A Computer Science master's student who thrives on cross-pollinating ideas, connecting resources, and turning concepts into reality.
 
 </div>
 > ### *"where a demo stops being a demo and starts being something people rely on."*
