@@ -16,6 +16,7 @@ model training, data pipelines and cloud deployment, with a fair amount of it in
      comes from devicon at a matching height. -->
 
 | | |
+| --- | --- |
 | **Languages** | <img height="42" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" /> |
 | **Frontend** | <img height="42" alt="HTML, CSS, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /> |
 | **Backend and data** | <img height="42" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" /> <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> |
