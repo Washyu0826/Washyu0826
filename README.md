@@ -8,6 +8,8 @@
 
 > ### *"where a demo stops being a demo and starts being something people rely on."*
 
+- **🌱focusing :**AI, Backend Development, and DevOps.
+
 - **🎯 Domain :** **FinTech & Digital Healthcare**.
 
 - **🌐 More :**  [kuanyuhsien.com](https://www.kuanyuhsien.com) 
