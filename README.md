@@ -52,9 +52,10 @@ what the numbers do not say.
       </td>
     </tr>
     <tr>
-      <td><strong>ML & Deep Learning</strong></td>
+      <td><strong>ML & DL</strong></td>
       <td colspan="3">
-        <img height="36" alt="PyTorch, TensorFlow, Keras, scikit-learn, OpenCV" src="https://skillicons.dev/icons?i=pytorch,tensorflow,keras,sklearn,opencv&theme=dark" />
+        <img height="36" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
+        <img height="36" alt="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
         <img height="36" alt="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
         <img height="36" alt="Weights & Biases" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" />
       </td>
