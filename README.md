@@ -28,16 +28,3 @@ what the numbers do not say.
 | **Machine learning** | <img height="42" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> |
 | **Infrastructure and observability** | <img height="42" alt="Linux, Docker, Kubernetes, Nginx, AWS, Vercel, Grafana" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,vercel,grafana&theme=dark" /> |
 
----
-
-## 🔥 What I have been building
-
-- **[health-report-tagger](https://github.com/Washyu0826/health-report-tagger)** · report PDFs into evidence-backed health tags, fully local, with an evaluation harness
-- **[k8s-aiops-operator](https://github.com/Washyu0826/k8s-aiops-operator)** · diagnoses pod failures, applies human-approved fixes, verifies the rollout
-- **[shin-lee-patent-rag](https://github.com/Washyu0826/shin-lee-patent-rag)** · patent search over OCR'd documents, bge-m3 and a reranker through Ollama
-- **[health-knowledge-graph](https://github.com/Washyu0826/health-knowledge-graph)** · a health knowledge graph on Neo4j, queried through an LLM
-- **[website](https://github.com/Washyu0826/website)** · this site and its CMS: bilingual, scheduled publishing, five kinds of test
-
-## 📮 Say hello
-
-[Contact page](https://www.kuanyuhsien.com/en/contact) · [LinkedIn](https://www.linkedin.com/in/kuan-yu-hsien-780123304)
