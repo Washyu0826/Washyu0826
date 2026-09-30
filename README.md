@@ -1,20 +1,25 @@
-## 你好 👋 I'm Kuan-Yu, and most people call me Zenobia
+# 你好 👋 I'm Zenobia
 
-Master's student in Computer Science at NCCU, Taipei. My favourite moment in engineering is when an
-idea stops being a slide and starts being something that runs. Then it breaks. Then I fix it. 🔁
-That loop is the whole reason I do this.
+### I like the part where a demo stops being a demo and starts being something people rely on.
 
-- 🩺 **Healthcare is where most of my work lands.** Parsing clinical reports, building knowledge
-  graphs, and teaching a language model to answer from a source instead of from memory.
-- 🔬 **Deep learning is my research home.** Training, measuring, and staying honest about what the
-  numbers do not say.
-- 🛠️ **Currently building** a Kubernetes operator that spots a failing pod, proposes a fix, and
-  waits for a human to say go.
-- 🚀 **Chasing 2027 new-grad roles** in software or AI engineering. Come talk to me!
-- 🌐 **The full story is at** [kuanyuhsien.com](https://www.kuanyuhsien.com). Bilingual, and I built
-  the CMS behind it too.
+Master's student in Computer Science at **NCCU, Taipei**. I build for healthcare, I care about
+answers that can prove where they came from, and I am after **2027 new-grad roles**. Come say hi! 🚀
 
-### Tech I reach for
+## 🔥 What I am into right now
+
+**🩺 Healthcare, mostly.** Turning clinical reports into something a person can act on. Knowledge
+graphs. Retrieval that has to cite its source instead of inventing one.
+
+**🔬 Deep learning, for real.** My graduate research. Training, measuring, and staying honest about
+what the numbers do not say.
+
+**🛠️ Kubernetes that repairs itself, carefully.** An operator that spots a failing pod, works out
+what happened, proposes a fix, and waits for a human to say go.
+
+**🌐 A site I built end to end.** [kuanyuhsien.com](https://www.kuanyuhsien.com) is bilingual, and
+the CMS behind it is mine too.
+
+## 🧰 Tech I reach for
 
 <!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
      Each row is one request to skillicons.dev, so no single image here can break on its own. Neo4j
@@ -31,7 +36,7 @@ That loop is the whole reason I do this.
 
 ---
 
-### What I have been building
+## 🚧 What I have been building
 
 **[health-report-tagger](https://github.com/Washyu0826/health-report-tagger)** · Python
 
@@ -67,6 +72,6 @@ screenshot to accessibility.
 
 [![trophies](https://trophy.ryglcloud.net/?username=Washyu0826&title=Commits,Experience&theme=onedark&column=2&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Say hello 👋
+## 📮 Say hello
 
 [Contact page](https://www.kuanyuhsien.com/en/contact) · [LinkedIn](https://www.linkedin.com/in/kuan-yu-hsien-780123304)
