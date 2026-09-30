@@ -8,16 +8,9 @@
 
 > ### *"where a demo stops being a demo and starts being something people rely on."*
 
-Master's student in Computer Science at **NCCU, Taipei**. I build for healthcare, I care about
-answers that can prove where they came from, and I am after **2027 new-grad roles**. 
 
-**🩺 Healthcare, mostly.** Turning clinical reports into something a person can act on. Knowledge
-graphs. Retrieval that has to cite its source instead of inventing one.
 
-**🔬 Deep learning, for real.** My graduate research. Training, measuring, and staying honest about
-what the numbers do not say.
-
-**🌐 Know more about my experiences** at [kuanyuhsien.com](https://www.kuanyuhsien.com) 
+**🌐 More about my experiences** at [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
 <!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
      Each row is one request to skillicons.dev, so no single image here can break on its own. Neo4j
