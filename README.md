@@ -18,11 +18,30 @@ what the numbers do not say.
      is the exception: skillicons has no icon for it and renders nothing rather than failing, so it
      comes from devicon at a matching height. -->
 
-| | |
-| --- | --- |
-| **Languages** | <img height="42" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" /> |
-| **Frontend** | <img height="42" alt="HTML, CSS, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /> |
-| **Backend and data** | <img height="42" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" /> <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" /> |
-| **Machine learning** | <img height="42" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /> |
-| **Infrastructure and observability** | <img height="42" alt="Linux, Docker, Kubernetes, Nginx, AWS, Vercel, Grafana" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,vercel,grafana&theme=dark" /> |
-
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td><img height="42" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td><img height="42" alt="HTML, CSS, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Backend and data</strong></td>
+      <td>
+        <img height="42" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" />
+        <img height="42" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Machine learning</strong></td>
+      <td><img height="42" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></td>
+    </tr>
+    <tr>
+      <td><strong>Infrastructure and observability</strong></td>
+      <td><img height="42" alt="Linux, Docker, Kubernetes, Nginx, AWS, Vercel, Grafana" src="https://skillicons.dev/icons?i=linux,docker,kubernetes,nginx,aws,vercel,grafana&theme=dark" /></td>
+    </tr>
+  </tbody>
+</table>
