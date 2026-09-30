@@ -13,8 +13,6 @@ That loop is the whole reason I do this.
 - 🚀 **Chasing 2027 new-grad roles** in software or AI engineering. Come talk to me!
 - 🌐 **The full story is at** [kuanyuhsien.com](https://www.kuanyuhsien.com). Bilingual, and I built
   the CMS behind it too.
-- ☕ **Always happy to talk** about retrieval, knowledge graphs, or why a pipeline is slower than it
-  should be.
 
 ### Tech I reach for
 
