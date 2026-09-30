@@ -3,7 +3,7 @@
 ## " I like the part where a demo stops being a demo and starts  being something people rely on "
 
 Master's student in Computer Science at **NCCU, Taipei**. I build for healthcare, I care about
-answers that can prove where they came from, and I am after **2027 new-grad roles**. Come say hi! 🚀
+answers that can prove where they came from, and I am after **2027 new-grad roles**. 
 
 ## 🔥 What I am into right now
 
@@ -13,13 +13,9 @@ graphs. Retrieval that has to cite its source instead of inventing one.
 **🔬 Deep learning, for real.** My graduate research. Training, measuring, and staying honest about
 what the numbers do not say.
 
-**🛠️ Kubernetes that repairs itself, carefully.** An operator that spots a failing pod, works out
-what happened, proposes a fix, and waits for a human to say go.
+**🌐 A site I built end to end.** [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
-**🌐 A site I built end to end.** [kuanyuhsien.com](https://www.kuanyuhsien.com) is bilingual, and
-the CMS behind it is mine too.
-
-## 🧰 Tech I reach for
+## 🛠️ Tech I reach for
 
 <!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
      Each row is one request to skillicons.dev, so no single image here can break on its own. Neo4j
