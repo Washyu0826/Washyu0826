@@ -11,7 +11,7 @@ graphs. Retrieval that has to cite its source instead of inventing one.
 **🔬 Deep learning, for real.** My graduate research. Training, measuring, and staying honest about
 what the numbers do not say.
 
-**🌐 Know more about my experiences** (https://www.kuanyuhsien.com) 
+**🌐 Know more about my experiences** at [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
 ## 🛠️ Tech I reach for
 
@@ -32,33 +32,11 @@ what the numbers do not say.
 
 ## 🔥 What I have been building
 
-**[health-report-tagger](https://github.com/Washyu0826/health-report-tagger)** · Python
-
-Health-check reports in Taiwan differ by clinic, which makes them hard to act on. This turns a
-report PDF into evidence-backed health tags without anything leaving the machine: rule-based lab
-parsing, retrieval whose answers have to cite the passage they came from, claim verification, and
-an evaluation harness so the pipeline can be measured rather than trusted.
-
-**[k8s-aiops-operator](https://github.com/Washyu0826/k8s-aiops-operator)**
-
-A Kubernetes operator that diagnoses pod failures from the evidence it collects, then applies a fix
-only after a human has approved it, and verifies the rollout afterwards.
-
-**[shin-lee-patent-rag](https://github.com/Washyu0826/shin-lee-patent-rag)** · Python
-
-Search over OCR'd Taiwan patent documents: bge-m3 embeddings, a reranker over the candidates, and a
-local model through Ollama.
-
----
-
-<!-- Two trophies rather than the default eight: the other six are Stars, Followers, Issues and
-     Reviews, which currently read "Unknown, 0pt", and a card that lists what someone has not done
-     yet is worse than no card. Drop the `title=` parameter to show all of them.
-     The canonical host (github-profile-trophy.vercel.app) answers 402 while its owner looks for
-     funding, so this points at a volunteer mirror; forking the project onto your own Vercel is the
-     version that cannot disappear. -->
-
-[![trophies](https://trophy.ryglcloud.net/?username=Washyu0826&title=Commits,Experience&theme=onedark&column=2&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+- **[health-report-tagger](https://github.com/Washyu0826/health-report-tagger)** · report PDFs into evidence-backed health tags, fully local, with an evaluation harness
+- **[k8s-aiops-operator](https://github.com/Washyu0826/k8s-aiops-operator)** · diagnoses pod failures, applies human-approved fixes, verifies the rollout
+- **[shin-lee-patent-rag](https://github.com/Washyu0826/shin-lee-patent-rag)** · patent search over OCR'd documents, bge-m3 and a reranker through Ollama
+- **[health-knowledge-graph](https://github.com/Washyu0826/health-knowledge-graph)** · a health knowledge graph on Neo4j, queried through an LLM
+- **[website](https://github.com/Washyu0826/website)** · this site and its CMS: bilingual, scheduled publishing, five kinds of test
 
 ## 📮 Say hello
 
