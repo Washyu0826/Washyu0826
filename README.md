@@ -13,7 +13,7 @@ graphs. Retrieval that has to cite its source instead of inventing one.
 **🔬 Deep learning, for real.** My graduate research. Training, measuring, and staying honest about
 what the numbers do not say.
 
-**🌐 Know more about my experiences** [kuanyuhsien.com](https://www.kuanyuhsien.com) 
+**🌐 Know more about my experiences** (https://www.kuanyuhsien.com) 
 
 ## 🛠️ Tech I reach for
 
