@@ -8,11 +8,11 @@
 
 > ### *"where a demo stops being a demo and starts being something people rely on."*
 
-- **🌱focusing :**AI, Backend Development, and DevOps.
+- 🌱focusing : **AI, Backend Development, and DevOps**.
 
-- **🎯 Domain :** **FinTech & Digital Healthcare**.
+- 🎯 Domain : **FinTech & Digital Healthcare**.
 
-- **🌐 More :**  [kuanyuhsien.com](https://www.kuanyuhsien.com) 
+- 🌐 More :  [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
 <!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
      Each row is one request to skillicons.dev, so no single image here can break on its own. Neo4j
