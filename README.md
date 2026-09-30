@@ -8,9 +8,9 @@
 
 > ### *"where a demo stops being a demo and starts being something people rely on."*
 
-- **🎯 Domain :** Bridging robust engineering with real-world applications in **FinTech & Digital Healthcare**.
+- **🎯 Domain :** **FinTech & Digital Healthcare**.
 
-- **🌐 More about my experiences:** at [kuanyuhsien.com](https://www.kuanyuhsien.com) 
+- **🌐 More about my experiences:**  [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
 <!-- Grouped rather than piled up, because where a thing sits matters as much as having touched it.
      Each row is one request to skillicons.dev, so no single image here can break on its own. Neo4j
