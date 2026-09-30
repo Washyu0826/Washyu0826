@@ -1,10 +1,18 @@
-# Kuan-Yu Hsien (Zenobia)
+## 你好 👋 I'm Kuan-Yu Hsien, and most people call me Zenobia
 
-**Software / AI Engineer.** M.S. Computer Science at National Chengchi University, Taipei.
+I am a master's student in Computer Science at National Chengchi University in Taipei, and I like
+the part of engineering where an idea stops being a slide and starts being something that runs,
+breaks, and gets fixed.
 
-I like turning an idea into something that actually runs, then finding out where it breaks. My graduate research focuses on applied deep learning, and my hands-on work centers on building end-to-end AI systems—spanning data pipelines, model training, and scalable cloud infrastructure. I've engineered and deployed practical solutions across domains like fintech, health tech, and social media platforms.
-
-**Website** *:* [kuanyuhsien.com](https://www.kuanyuhsien.com)
+- 🩺 **Most of what I build lands in healthcare.** Parsing clinical reports, building knowledge
+  graphs, and getting a language model to answer from a source instead of from memory.
+- 🔬 **My graduate research is in applied deep learning**, which in practice means training,
+  measuring, and being honest about what the numbers do not show.
+- 🛠️ **Right now I am building** a Kubernetes operator that diagnoses a failing pod and applies the
+  fix only after a person has approved it.
+- 🎯 **Looking for 2027 new-grad roles**, in software or AI engineering.
+- 🌐 **Everything else is at** [kuanyuhsien.com](https://www.kuanyuhsien.com), a bilingual site I
+  wrote along with the CMS behind it.
 
 ### Tech I reach for
 
