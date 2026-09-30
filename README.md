@@ -49,12 +49,6 @@ only after a human has approved it, and verifies the rollout afterwards.
 Search over OCR'd Taiwan patent documents: bge-m3 embeddings, a reranker over the candidates, and a
 local model through Ollama.
 
-**[website](https://github.com/Washyu0826/website)** · TypeScript
-
-This site and the content system behind it. Bilingual throughout, scheduled publishing, an asset
-library with versioned uploads and expiring share links, and five kinds of test from unit to
-screenshot to accessibility.
-
 ---
 
 <!-- Two trophies rather than the default eight: the other six are Stars, Followers, Issues and
