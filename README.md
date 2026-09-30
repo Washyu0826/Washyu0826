@@ -8,9 +8,17 @@
 
 > ### *"where a demo stops being a demo and starts being something people rely on."*
 
-- 🌱focusing : **AI, Backend Development, and DevOps**.
+- .
+
+- 🎯Looking for: 2027 Full-Time Jobs Opportunities.
+
+- 💼 Experience: Ex-Intern at **Weibo & Cathay Financial Holdings**
+
+- 🌱Focusing : **AI, Backend Development, and DevOps**.
 
 - 🎯 Domain : **FinTech & Digital Healthcare**.
+
+- 📬 Contact : xiahguanyu925@gmail.com
 
 - 🌐 More :  [kuanyuhsien.com](https://www.kuanyuhsien.com) 
 
