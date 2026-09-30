@@ -45,3 +45,46 @@ what the numbers do not say.
     </tr>
   </tbody>
 </table>
+
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Languages</strong></td>
+      <td>
+        <img height="36" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" />
+      </td>
+      <td><strong>Cloud & OS</strong></td>
+      <td>
+        <img height="36" alt="AWS, Vercel, Linux" src="https://skillicons.dev/icons?i=aws,vercel,linux&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Frontend</strong></td>
+      <td>
+        <img height="36" alt="HTML, CSS, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
+      </td>
+      <td><strong>Containers & Ops</strong></td>
+      <td>
+        <img height="36" alt="Docker, Kubernetes, Nginx" src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Backend & Data</strong></td>
+      <td>
+        <img height="36" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" />
+        <img height="36" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
+      </td>
+      <td><strong>Observability</strong></td>
+      <td>
+        <img height="36" alt="Grafana" src="https://skillicons.dev/icons?i=grafana&theme=dark" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Machine Learning</strong></td>
+      <td colspan="3">
+        <img height="36" alt="PyTorch, TensorFlow, scikit-learn" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+      </td>
+    </tr>
+  </tbody>
+</table>
