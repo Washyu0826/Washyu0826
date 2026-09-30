@@ -4,7 +4,7 @@
 
 I like turning an idea into something that actually runs, then finding out where it breaks. My graduate research focuses on applied deep learning, and my hands-on work centers on building end-to-end AI systems—spanning data pipelines, model training, and scalable cloud infrastructure. I've engineered and deployed practical solutions across domains like fintech, health tech, and social media platforms.
 
-**Website**  [kuanyuhsien.com](https://www.kuanyuhsien.com)
+**Website** *:* [kuanyuhsien.com](https://www.kuanyuhsien.com)
 
 ### Tech I reach for
 
