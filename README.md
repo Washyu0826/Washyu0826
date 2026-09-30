@@ -5,8 +5,6 @@
 Master's student in Computer Science at **NCCU, Taipei**. I build for healthcare, I care about
 answers that can prove where they came from, and I am after **2027 new-grad roles**. 
 
-## 🔥 What I am into right now
-
 **🩺 Healthcare, mostly.** Turning clinical reports into something a person can act on. Knowledge
 graphs. Retrieval that has to cite its source instead of inventing one.
 
@@ -32,7 +30,7 @@ what the numbers do not say.
 
 ---
 
-## 🚧 What I have been building
+## 🔥 What I have been building
 
 **[health-report-tagger](https://github.com/Washyu0826/health-report-tagger)** · Python
 
