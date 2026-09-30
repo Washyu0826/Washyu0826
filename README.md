@@ -1,4 +1,4 @@
-# 你好 👋 I'm Zenobia
+# Hello 👋 I'm Zenobia
 
 # I like the part where a demo stops being a demo and starts being something people rely on.
 
