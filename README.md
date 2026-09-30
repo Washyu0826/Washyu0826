@@ -1,18 +1,20 @@
-## 你好 👋 I'm Kuan-Yu Hsien, and most people call me Zenobia
+## 你好 👋 I'm Kuan-Yu, and most people call me Zenobia
 
-I am a master's student in Computer Science at National Chengchi University in Taipei, and I like
-the part of engineering where an idea stops being a slide and starts being something that runs,
-breaks, and gets fixed.
+Master's student in Computer Science at NCCU, Taipei. My favourite moment in engineering is when an
+idea stops being a slide and starts being something that runs. Then it breaks. Then I fix it. 🔁
+That loop is the whole reason I do this.
 
-- 🩺 **Most of what I build lands in healthcare.** Parsing clinical reports, building knowledge
-  graphs, and getting a language model to answer from a source instead of from memory.
-- 🔬 **My graduate research is in applied deep learning**, which in practice means training,
-  measuring, and being honest about what the numbers do not show.
-- 🛠️ **Right now I am building** a Kubernetes operator that diagnoses a failing pod and applies the
-  fix only after a person has approved it.
-- 🎯 **Looking for 2027 new-grad roles**, in software or AI engineering.
-- 🌐 **Everything else is at** [kuanyuhsien.com](https://www.kuanyuhsien.com), a bilingual site I
-  wrote along with the CMS behind it.
+- 🩺 **Healthcare is where most of my work lands.** Parsing clinical reports, building knowledge
+  graphs, and teaching a language model to answer from a source instead of from memory.
+- 🔬 **Deep learning is my research home.** Training, measuring, and staying honest about what the
+  numbers do not say.
+- 🛠️ **Currently building** a Kubernetes operator that spots a failing pod, proposes a fix, and
+  waits for a human to say go.
+- 🚀 **Chasing 2027 new-grad roles** in software or AI engineering. Come talk to me!
+- 🌐 **The full story is at** [kuanyuhsien.com](https://www.kuanyuhsien.com). Bilingual, and I built
+  the CMS behind it too.
+- ☕ **Always happy to talk** about retrieval, knowledge graphs, or why a pipeline is slower than it
+  should be.
 
 ### Tech I reach for
 
@@ -67,6 +69,6 @@ screenshot to accessibility.
 
 [![trophies](https://trophy.ryglcloud.net/?username=Washyu0826&title=Commits,Experience&theme=onedark&column=2&no-frame=true&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Reach me
+### Say hello 👋
 
 [Contact page](https://www.kuanyuhsien.com/en/contact) · [LinkedIn](https://www.linkedin.com/in/kuan-yu-hsien-780123304)
