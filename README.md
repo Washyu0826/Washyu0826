@@ -13,7 +13,7 @@
 
 - 💼 Experience : Ex-Intern at **Weibo & Cathay Financial Holdings**
 
-- 🌱 Focusing : **AI, Backend Development, and DevOps**.
+- 🌱 Focusing : **Multimodal AI, Backend Development, and DevOps**.
 
 - 🎯 Domain : **FinTech & Digital Healthcare**.
 
