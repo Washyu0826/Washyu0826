@@ -27,11 +27,6 @@
      comes from devicon at a matching height. -->
 
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>AI</strong></td>
-      <td colspan="3">
         <img height="36" alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
         <img height="36" alt="Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
         <img height="36" alt="Ollama" src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
@@ -39,8 +34,9 @@
         <img height="36" alt="Dify" src="https://img.shields.io/badge/Dify-155EEF?style=flat-square&logo=flutter&logoColor=white" />
         <img height="36" alt="Aider" src="https://img.shields.io/badge/Aider-4A154B?style=flat-square&logo=terminal&logoColor=white" />
         <img height="36" alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-      </td>
-    </tr>
+
+<table>
+  <tbody>
     <tr>
       <td><strong>Languages</strong></td>
       <td>
