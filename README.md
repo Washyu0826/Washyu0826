@@ -80,4 +80,4 @@
   <img src="https://img.shields.io/badge/Dify-155EEF?style=flat-square&logo=flutter&logoColor=white" alt="Dify" />
   <img src="https://img.shields.io/badge/Aider-4A154B?style=flat-square&logo=gnubash&logoColor=white" alt="Aider" />
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-</p>
+</p> 
