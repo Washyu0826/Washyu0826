@@ -72,13 +72,25 @@
   </tbody>
 </table>
 
-</table>
 <p align="left">
+  <!-- Claude Code (Anthropic Logo) -->
   <img src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
+  
+  <!-- OpenAI Codex (使用官方 OpenAI Logo) -->
   <img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  
+  <!-- Ollama -->
   <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  
+  <!-- LangChain -->
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
+  
+  <!-- Dify (使用流暢對應的 Flutter/Flow 圖示) -->
   <img src="https://img.shields.io/badge/Dify-155EEF?style=flat-square&logo=flutter&logoColor=white" alt="Dify" />
-  <img src="https://img.shields.io/badge/Aider-4A154B?style=flat-square&logo=terminal&logoColor=white" alt="Aider" />
+  
+  <!-- Aider (改用標準 Bash 終端圖示 gnubash，確保 100% 正常渲染) -->
+  <img src="https://img.shields.io/badge/Aider-4A154B?style=flat-square&logo=gnubash&logoColor=white" alt="Aider" />
+  
+  <!-- n8n -->
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
