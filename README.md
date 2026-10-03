@@ -26,56 +26,11 @@
      is the exception: skillicons has no icon for it and renders nothing rather than failing, so it
      comes from devicon at a matching height. -->
 
-<table>
-  <tbody>
-    <tr>
-      <td><strong>Languages</strong></td>
-      <td>
-        <img height="36" alt="Python, TypeScript, JavaScript, Java, Go, C, C++" src="https://skillicons.dev/icons?i=py,ts,js,java,go,c,cpp&theme=dark" />
-      </td>
-      <td><strong>Cloud & OS</strong></td>
-      <td>
-        <img height="36" alt="AWS, Vercel, Linux" src="https://skillicons.dev/icons?i=aws,vercel,linux&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Frontend</strong></td>
-      <td>
-        <img height="36" alt="HTML, CSS, React, Next.js, Tailwind CSS" src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-      </td>
-      <td><strong>Containers & Ops</strong></td>
-      <td>
-        <img height="36" alt="Docker, Kubernetes, Nginx" src="https://skillicons.dev/icons?i=docker,kubernetes,nginx&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>Backend & Data</strong></td>
-      <td>
-        <img height="36" alt="Spring, Supabase, PostgreSQL, MySQL, MongoDB, Redis" src="https://skillicons.dev/icons?i=spring,supabase,postgres,mysql,mongodb,redis&theme=dark" />
-        <img height="36" alt="Neo4j" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" />
-      </td>
-      <td><strong>Observability</strong></td>
-      <td>
-        <img height="36" alt="Grafana" src="https://skillicons.dev/icons?i=grafana&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td><strong>ML & DL</strong></td>
-      <td colspan="3">
-        <img height="36" alt="PyTorch, TensorFlow, scikit-learn, OpenCV" src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&theme=dark" />
-        <img height="36" alt="Keras" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" />
-        <img height="36" alt="Hugging Face" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" />
-        <img height="36" alt="Weights & Biases" src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 
 <table>
   <tbody>
     <tr>
-      <td><strong>AI & Agents</strong></td>
+      <td><strong>AI</strong></td>
       <td colspan="3">
         <img height="36" alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
         <img height="36" alt="Codex" src="https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white" />
